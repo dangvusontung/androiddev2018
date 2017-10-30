@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: Hoang Duc Minh, Dang Vu Son Tung, Vu Hoang Linh 
+* ID: USTHBI6-096, USTHBI6-145, USTHBI6-086
+* Group ID: 9
+* Project Name: IRC Client
